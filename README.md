@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @webeli
+- 👋 Hi, I’m @web3li
 - 👀 I’m interested in web3
 - 📫 You can reach me on [Twitter](https://twitter.com/web3li)
 
